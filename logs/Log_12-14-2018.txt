@@ -1,0 +1,3 @@
+WARNING: 12-14-2018 16:52:18 [MyLog]: com.belatrix.service.impl.JobLoggerServiceImpl | LogMessage(): This is a Warning Message
+ERROR: 	 12-14-2018 16:52:18 [MyLog]: com.belatrix.service.impl.JobLoggerServiceImpl | LogMessage(): this is a ErrorMessage
+MESSAGE: 12-14-2018 16:52:18 [MyLog]: com.belatrix.service.impl.JobLoggerServiceImpl | LogMessage(): This is a Message

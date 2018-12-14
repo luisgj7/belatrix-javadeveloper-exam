@@ -1,0 +1,1 @@
+CREATE DATABASE db_exam CHARACTER SET utf8 COLLATE utf8_general_ci;
